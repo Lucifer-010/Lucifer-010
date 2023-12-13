@@ -1,6 +1,6 @@
-### Hi there 👋
+
 <hr/>
-<h1>testing</h1>
+<h1>💫 About Me</h1>
 <div align="center">
 	<table>
 		<tr>
