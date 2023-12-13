@@ -24,11 +24,8 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code></td>
-			<td><svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <path d="M443.5 247.4c-6.4-13-15.7-24.7-28.1-34.5L256 112l-159.4 99.8c-12.4 9.8-21.7 21.5-28.1 34.5-11.7 16.2-13.6 34.7-4.9 52.3l112.8 160.2c10.7 14.7 24.7 24.7 38.7 24.7a50.36 50.36 0 0 0 38.7-12.5L443.5 299.7z" fill="#4285F4" />
-  <path d="M304 288c-11.2 0-22.1-5-31-13.9L208 216l-96 72c-8.9 6.8-19.2 11.7-29.5 11.7-18.6 0-37.2-10.7-49-27.2-11.8-16.5-13.7-35.1-4.9-53.3l112.8-160.2c10.7-14.7 24.7-24.7 38.7-24.7a50.36 50.36 0 0 0 38.7 12.5L448 247.4z" fill="#F4B400" />
-</svg>
-</td>
+			<td><code><img src="https://cloud.google.com/static/images/logo.svg" alt="Google Cloud" width="50" height="50">
+</code></td>
 		</tr>
 	</table>
 </div>
