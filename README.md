@@ -34,6 +34,17 @@
 		</tr>
 	</table>
 </div>
+<div align="center">
+	<h3>IOT :</h3>
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code></td>
+			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code></td>
+			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
+		</tr>
+	</table>
+</div>
 <!--
 **CyberGodKing/CyberGodKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
