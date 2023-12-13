@@ -3,7 +3,7 @@
 <h1>💫 About Me</h1>
 <p>Hi there! I’m a Cyber Security Analyst, Software Engineer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality. I also write technical articles and speak at tech events as a means to share my knowledge and experience with the global tech community.</p>
 <div align="center">
-	<h3>Technologies I Work With</h3>
+	<h2>Technologies I Work With</h2>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
