@@ -1,6 +1,7 @@
 
 <hr/>
 <h1>💫 About Me</h1>
+<p>Hi there! I’m a Cyber Security Analyst, Software Engineer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality. I also write technical articles and speak at tech events as a means to share my knowledge and experience with the global tech community.</p>
 <div align="center">
 	<table>
 		<tr>
