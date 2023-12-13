@@ -38,12 +38,29 @@
 	<h3>IOT :</h3>
 	<table>
 		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code></td>
+			<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Scapy_logo.png/240px-Scapy_logo.png" alt="TensorFlow" title="TensorFlow"/></code></td>
 			<td><code><img width="50" src="https://opencv1.b-cdn.net/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="Linux" title="Linux"/></code></td>
 			<td><code><img width="50" src="https://numpy.org/images/logo.svg" alt="Ubuntu" title="Ubuntu"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
 		</tr>
 	</table>
+</div>
+<div align="center">
+
+	<table>
+
+		<tr>
+
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code></td>
+
+			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code></td>
+
+			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
+
+		</tr>
+
+	</table>
+
 </div>
 <!--
 **CyberGodKing/CyberGodKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
