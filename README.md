@@ -1,5 +1,5 @@
 <hr/>
-<h1>💫 Professional Summary | AgwumafaTobechukwu Melody</h1>
+<h1>💫 AgwumafaTobechukwu Melody</h1>
 <p>I am a Software Developer and student at the Federal University of Petroleum Resources Effurun (FUPRE). Specializing in Python and the Django framework, I architect robust backend systems, integrate automated Telegram bots, and develop decentralized applications within the Solana ecosystem. My technical background extends to Linux system administration, utilizing Kali Linux and Ubuntu for server configuration and deployment. I am dedicated to writing clean, maintainable code, exploring advanced Web3 technologies, and fostering tech communities through strategic event organization.</p>
 
 <h1>Technical Arsenal</h1>
