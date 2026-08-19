@@ -1,16 +1,15 @@
-
 <hr/>
-<h1>💫 About Me</h1>
-<p>Hi there! I’m a Cyber Security Analyst, Software Engineer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality. I also write technical articles and speak at tech events as a means to share my knowledge and experience with the global tech community.</p>
+<h1>💫 Professional Summary | Esumobi Kelechi Glory</h1>
+<p>I am a Software Developer and student at the Federal University of Petroleum Resources Effurun (FUPRE). Specializing in Python and the Django framework, I architect robust backend systems, integrate automated Telegram bots, and develop decentralized applications within the Solana ecosystem. My technical background extends to Linux system administration, utilizing Kali Linux and Ubuntu for server configuration and deployment. I am dedicated to writing clean, maintainable code, exploring advanced Web3 technologies, and fostering tech communities through strategic event organization.</p>
 
-<h1>Technologies I work With</h1>
+<h1>Technical Arsenal</h1>
 <div align="center">
-	<h3>Default Language :</h3>
+	<h3>Core Language :</h3>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-
 </div>
+
 <div align="center">
-	<h3>Fontend :</h3>
+	<h3>Frontend :</h3>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
@@ -21,42 +20,35 @@
 		</tr>
 	</table>
 </div>
+
 <div align="center">
-	<h3>Backend :</h3>
+	<h3>Backend & Databases :</h3>
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code></td>
 			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code></td>
-			<td><code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/512px-Google_Cloud_logo.svg.png" alt="Google Cloud" width="150px" height="50">
-</code></td>
 		</tr>
 	</table>
 </div>
+
 <div align="center">
-	<h3>IOT :</h3>
+	<h3>Infrastructure & Web3 :</h3>
 	<table>
 		<tr>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code></td>
-			<td><code><img width="50" src="https://opencv1.b-cdn.net/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="Linux" title="Linux"/></code></td>
-			<td><code><img width="50" src="https://numpy.org/images/logo.svg" alt="Ubuntu" title="Ubuntu"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu"/></code></td>
+			<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kali_Linux_2.0_wordmark.svg/512px-Kali_Linux_2.0_wordmark.svg.png" alt="Kali Linux" title="Kali Linux"/></code></td>
+			<td><code><img width="50" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" alt="Solana" title="Solana"/></code></td>
 		</tr>
 	</table>
 </div>
 
-<!--
-**CyberGodKing/CyberGodKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Focus:** Architecting backend systems with Django, developing automated Telegram APIs, and executing my final year project at FUPRE.
+- 🌱 **Continuous Learning:** Advanced Web3 architectures, dApp structuring, and Solana smart contract development.
+- 👯 **Open to Collaboration:** Open-source Python initiatives, backend infrastructure design, and Web3 projects.
+- 💬 **Ask me about:** Python programming, Django frameworks, Linux server administration, and community tech initiatives.
+- 📫 **How to reach me:** [Insert your professional email or LinkedIn here]
